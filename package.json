@@ -1,0 +1,22 @@
+{
+  "name": "test-zero-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --write *.{js,jsx,json}",
+    "zero": "cross-env PORT=80 zero"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "prettier": "^1.16.4",
+    "zero": "^1.0.11"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
