@@ -17,6 +17,6 @@
     "zero": "^1.0.17"
   },
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
